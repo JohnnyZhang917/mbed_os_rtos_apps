@@ -1,5 +1,5 @@
 ﻿---
-title: Mbed OS RTOS demo applications for Harmony 3
+title: Harmony 3 Mbed OS RTOS application examples
 nav_order: 1
 has_children: true
 has_toc: false
