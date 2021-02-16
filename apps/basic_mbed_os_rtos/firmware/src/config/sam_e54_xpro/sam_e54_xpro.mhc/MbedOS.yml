@@ -1,0 +1,15 @@
+format_version: v1.0
+type: UniqueComponent
+attributes: {id: MbedOS}
+children:
+- type: Symbols
+  children:
+  - type: Integer
+    attributes: {id: MBED_OS_CPU_CLOCK_HZ}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: MbedOS, value: '120000000'}
+- type: ElementPosition
+  attributes: {x: '150', y: '120', id: MbedOS}
