@@ -1,0 +1,74 @@
+{
+	"metaDataVersion": "1.0.0",
+	"category": "com.microchip.ide.project",
+	"content": {
+		"metaDataVersion": "1.1.0",
+		"name": "com.microchip.mcu32.mplabx.project.mbed_os_rtos_apps_basic_mbed_os_rtos_sam_e70_xult",
+		"version": "3.0.1",
+		"displayName": "Mbed OS RTOS basic Example for SAM E70/S70/V70/V71 Family",
+		"projectName": "basic_mbed_os_rtos_sam_e70_xult",
+		"shortDescription": "This example application blinks an LED to show the Mbed OS RTOS threads that are running and to indicate status.",
+		"ide": {
+			"name": "MPLABX",
+			"semverRange": ">=5.45.0"
+		},
+		"compiler": [
+			{
+				"name": "XC32",
+				"semverRange": ">=2.50.0"
+			}
+		],
+		"dfp": {
+			"name": "CMSIS",
+			"semverRange": "^5.4.0"
+		},
+		"configurator": {
+			"name": "MHC",
+			"semverRange": ">=3.7.0"
+		},
+		"device": {
+			"metaDataVersion": "1.0.0",
+			"category": "com.microchip.portal.contentRef",
+			"content": {
+				"metaDataVersion": "1.0.0",
+				"category": "com.microchip.device",
+				"name": "ATSAME70Q21B",
+				"versionRange": "*"
+			}
+		},
+		"author": "Microchip",
+		"subcategories": [
+			[
+				"Development Kit", "SAM E70 Xplained Ultra Evaluation Kit"
+			],
+			[
+				"Harmony", "RTOS", "MBED_OS_RTOS", "BASIC_MBED_OS_RTOS"
+			],
+			[
+				"RTOS", "MBED_OS_RTOS", "BASIC_MBED_OS_RTOS"
+			]
+		],
+		"peripherals": [
+			"BASIC_MBED_OS_RTOS"
+		],
+		"keywords": [
+			"MHC",
+			"Harmony",
+			"RTOS",
+			"MBED OS RTOS",
+			"ATSAME70Q21B",
+			"SAM E70/S70/V70/V71 Family"
+		],
+		"additionalData": {
+			"longDescription": {
+				"metaDataVersion": "1.0.0",
+				"category": "com.microchip.portal.fileRef",
+				"content": {
+					"metaDataVersion": "1.0.0",
+					"fileName": "./../../readme.md",
+					"mimeType": "text/markdown"
+				}
+			}
+		}
+	}
+}
