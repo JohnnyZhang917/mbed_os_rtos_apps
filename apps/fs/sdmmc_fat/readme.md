@@ -1,6 +1,6 @@
 ---
 parent: Harmony 3 Mbed OS RTOS application examples
-title: FAT filesystem using SDMMC Media 
+title: FAT filesystem using SDMMC Media
 has_children: false
 has_toc: false
 ---
@@ -41,6 +41,7 @@ To build the application, refer to the following table and open the project usin
 | Project Name      | Description                                    |
 | ----------------- | ---------------------------------------------- |
 | sam_e54_xpro.X | MPLABX project for [SAM E54 Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/atsame54-xpro) |
+| sam_e70_xult.X | MPLABX project for [SAM E70 Xplained Ultra Evaluation Kit](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM320113) |
 |||
 
 ## Setting up the hardware
@@ -50,9 +51,17 @@ The following table shows the target hardware for the application projects.
 | Project Name| Board|
 |:---------|:---------:|
 | sam_e54_xpro.X | [SAM E54 Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/atsame54-xpro) |
+| sam_e70_xult.X | [SAM E70 Xplained Ultra Evaluation Kit](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM320113) |
 |||
 
 ### Setting up [SAM E54 Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/atsame54-xpro)
+
+- To run this application, following additional hardware is required
+  - One micro-sd card
+  - Create a new JPEG file in the SD Card with name **FILE_TOO_LONG_NAME_EXAMPLE_123.JPG**
+- Connect the Debug USB port on the board to the computer using a micro USB cable
+
+### Setting up [SAM E70 Xplained Ultra Evaluation Kit](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM320113)
 
 - To run this application, following additional hardware is required
   - One micro-sd card
@@ -70,6 +79,7 @@ The following table shows the target hardware for the application projects.
     | Board | LED Name |
     | ----- | -------- |
     |  [SAM E54 Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/atsame54-xpro) | LED0 |
+    |  [SAM E70 Xplained Ultra Evaluation Kit](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM320113) | LED1 |
     |||
 
 4. If LED is ON, Insert the SD Card on to your host PC
