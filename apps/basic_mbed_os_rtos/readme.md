@@ -1,6 +1,6 @@
 ---
 parent: Harmony 3 Mbed OS RTOS application examples
-title: Basic Mbed OS RTOS
+title: Mbed OS RTOS basic
 has_children: false
 has_toc: false
 nav_order: 1
@@ -8,7 +8,7 @@ nav_order: 1
 
 [![MCHP](https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png)](https://www.microchip.com)
 
-# Basic Mbed OS RTOS
+# Mbed OS RTOS basic
 
 This example application blinks an LED to show the Mbed OS RTOS threads that are running and to indicate status
 

@@ -10,7 +10,7 @@ nav_order: 1
 
 # USART driver synchronous - USART echo
 
-This example echoes the received characters over the console using the USART driver in synchronous mode.
+This example echoes the received characters over the console using the USART driver in synchronous mode in Mbed OS RTOS environment.
 
 ## Description
 
