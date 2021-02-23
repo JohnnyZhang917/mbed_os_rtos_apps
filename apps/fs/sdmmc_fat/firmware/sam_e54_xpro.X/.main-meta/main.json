@@ -4,7 +4,7 @@
 	"content": {
 		"metaDataVersion": "1.1.0",
 		"name": "com.microchip.mcu32.mplabx.project.mbed_os_rtos_apps_fs_sdmmc_fat_sam_e54_xpro",
-		"version": "3.0.1",
+		"version": "3.0.0",
 		"displayName": "FAT filesystem using SDMMC Media Example for SAM D5x/E5x Family",
 		"projectName": "sdmmc_fat_sam_e54_xpro",
 		"shortDescription": "This application shows an example of using the MPLAB Harmony File System to access and modify the contents of a SD card using the SDMMC driver",

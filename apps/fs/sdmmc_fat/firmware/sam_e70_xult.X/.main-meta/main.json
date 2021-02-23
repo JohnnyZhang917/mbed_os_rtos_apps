@@ -4,7 +4,7 @@
 	"content": {
 		"metaDataVersion": "1.1.0",
 		"name": "com.microchip.mcu32.mplabx.project.mbed_os_rtos_apps_fs_sdmmc_fat_sam_e70_xult",
-		"version": "3.0.1",
+		"version": "3.0.0",
 		"displayName": "FAT filesystem using SDMMC Media Example for SAM E70/S70/V70/V71 Family",
 		"projectName": "sdmmc_fat_sam_e70_xult",
 		"shortDescription": "This application shows an example of using the FAT File System to access and modify the contents of a SD card using the SDMMC driver",

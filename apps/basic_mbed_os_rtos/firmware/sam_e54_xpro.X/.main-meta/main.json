@@ -4,7 +4,7 @@
 	"content": {
 		"metaDataVersion": "1.1.0",
 		"name": "com.microchip.mcu32.mplabx.project.mbed_os_rtos_apps_basic_mbed_os_rtos_sam_e54_xpro",
-		"version": "3.0.1",
+		"version": "3.0.0",
 		"displayName": "Mbed OS RTOS basic Example for SAM D5x/E5x Family",
 		"projectName": "basic_mbed_os_rtos_sam_e54_xpro",
 		"shortDescription": "This example application blinks an LED to show the Mbed OS RTOS threads that are running and to indicate status.",
