@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 
 name: Microchip Technology
-title: Mbed OS RTOS demo applications for Harmony 3
+title: Harmony 3 Mbed OS RTOS application examples
 lang: en-US
 timezone: America/Phoenix
 
-description: Mbed OS RTOS demo applications for Harmony 3
+description: Harmony 3 Mbed OS RTOS application examples
 url: "https://microchip-mplab-harmony.github.io"
 baseurl: "/mbed_os_rtos_apps"
 remote_theme: "Microchip-MPLAB-Harmony/just-the-docs@mchp-harmony"
