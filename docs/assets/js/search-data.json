@@ -157,7 +157,7 @@
   },"26": {
     "doc": "Release notes",
     "title": "Harmony 3 Mbed OS RTOS application examples  v3.0.0",
-    "content": "New Features . Development kit and demo application support . Following table provides number of Harmony 3 Mbed OS RTOS examples available for different development kits. | Development Kits | MPLABx applications | . | SAM D21 Xplained Pro Evaluation Kit | 3 | . | SAM E54 Xplained Pro Evaluation Kit | 3 | . | SAM E70 Xplained Ultra Evaluation Kit | 3 | . Bug fixes . | N/A | . Known Issues . | N/A | . Development Tools . | MPLAB® X IDE v5.45 | MPLAB® XC32 C/C++ Compiler v2.50 | MPLAB® X IDE plug-ins: . | MPLAB® Harmony Configurator (MHC) v3.7.0 | . | . ",
+    "content": "New Features . Development kit and demo application support . Following table provides number of Harmony 3 Mbed OS RTOS examples available for different development kits. | Development Kits | MPLAB® X Applications | . | SAM D21 Xplained Pro Evaluation Kit | 3 | . | SAM E54 Xplained Pro Evaluation Kit | 3 | . | SAM E70 Xplained Ultra Evaluation Kit | 3 | . Bug fixes . | N/A | . Known Issues . | N/A | . Development Tools . | MPLAB® X IDE v5.45 | MPLAB® XC32 C/C++ Compiler v2.50 | MPLAB® X IDE plug-ins: . | MPLAB® Harmony Configurator (MHC) v3.7.0 | . | . ",
     "url": "http://localhost:4000/mbed_os_rtos_apps/release_notes.html#harmony-3-mbed-os-rtos-application-examples--v300",
     "relUrl": "/release_notes.html#harmony-3-mbed-os-rtos-application-examples--v300"
   },"27": {
