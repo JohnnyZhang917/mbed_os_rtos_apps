@@ -16,7 +16,7 @@ nav_order: 99
 
 Following table provides number of Harmony 3 Mbed OS RTOS examples available for different development kits.
 
-| Development Kits  | MPLABx applications |
+| Development Kits  | MPLAB® X Applications |
 |:-----------------:|:-------------------:|
 | [SAM D21 Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/atsamd21-xpro)     | 3 |
 | [SAM E54 Xplained Pro Evaluation Kit](https://www.microchip.com/developmenttools/ProductDetails/atsame54-xpro)     | 3 |
